@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-number = 98
+number = -98
 
 if number > 0:
     print("{:d} is positive".format(number))
